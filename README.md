@@ -1,5 +1,8 @@
 # github-activity
 This project was made according to the instructions on roadmap.sh. Roadmap.sh has roadmaps for many different roles in the tech industry. This project is one of their recommended projects to showcase on your portfolio.
+
+More project recommendations on the website: (https://roadmap.sh/projects/github-user-activity)
+
 ##  Installation
 
 1. Go to the correct project root and activate a virtual environment:
